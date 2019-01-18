@@ -1,0 +1,29 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Course title
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  Name, Instructor &bull; Course Number, Semester &bull; Day, Time
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://l2-ado.github.io" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  jekyll
+gems: [jekyll-paginate]
+
+# Build settings
+markdown: kramdown
+
+# pagination
+paginate: 5
+paginate_path: "page:num"
+
+# Collections
+collections:
+  presentations:
+    output: true
