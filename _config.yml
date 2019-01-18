@@ -13,15 +13,15 @@ description: |
     Proin ullamcorper tristique nisi, quis hendrerit turpis. Donec non congue velit. 
     Praesent accumsan odio egestas, mollis lorem eget, euismod arcu. 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://course-website.svmiller.com" # the base hostname & protocol for your site
+url: "http://l2-ado.github.io" # the base hostname & protocol for your site
 syllabus: "https://github.com/svmiller/svm-r-markdown-templates/blob/master/svm-rmarkdown-syllabus-example.pdf"
-githubdir: "svmiller/course-website"
+githubdir: "l2-ado/2-ado.github.io"
 
 # Author/user information
-email: svmille@clemson.edu
-twitter_username: stevenvmiller
-github_username:  svmiller
-authorurl: "http://svmiller.com"
+#email: svmille@clemson.edu
+#twitter_username: stevenvmiller
+github_username:  l2-ado
+#authorurl: "http://svmiller.com"
 address: |
     Department of Political Science
     232 Brackett Hall
